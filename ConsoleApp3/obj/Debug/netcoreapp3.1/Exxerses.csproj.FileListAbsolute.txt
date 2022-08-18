@@ -1,0 +1,14 @@
+C:\Users\estoy\source\repos\Exam Preparatoin\ConsoleApp3\bin\Debug\netcoreapp3.1\Exxerses.exe
+C:\Users\estoy\source\repos\Exam Preparatoin\ConsoleApp3\bin\Debug\netcoreapp3.1\Exxerses.deps.json
+C:\Users\estoy\source\repos\Exam Preparatoin\ConsoleApp3\bin\Debug\netcoreapp3.1\Exxerses.runtimeconfig.json
+C:\Users\estoy\source\repos\Exam Preparatoin\ConsoleApp3\bin\Debug\netcoreapp3.1\Exxerses.runtimeconfig.dev.json
+C:\Users\estoy\source\repos\Exam Preparatoin\ConsoleApp3\bin\Debug\netcoreapp3.1\Exxerses.dll
+C:\Users\estoy\source\repos\Exam Preparatoin\ConsoleApp3\bin\Debug\netcoreapp3.1\Exxerses.pdb
+C:\Users\estoy\source\repos\Exam Preparatoin\ConsoleApp3\obj\Debug\netcoreapp3.1\Exxerses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estoy\source\repos\Exam Preparatoin\ConsoleApp3\obj\Debug\netcoreapp3.1\Exxerses.AssemblyInfoInputs.cache
+C:\Users\estoy\source\repos\Exam Preparatoin\ConsoleApp3\obj\Debug\netcoreapp3.1\Exxerses.AssemblyInfo.cs
+C:\Users\estoy\source\repos\Exam Preparatoin\ConsoleApp3\obj\Debug\netcoreapp3.1\Exxerses.csproj.CoreCompileInputs.cache
+C:\Users\estoy\source\repos\Exam Preparatoin\ConsoleApp3\obj\Debug\netcoreapp3.1\Exxerses.dll
+C:\Users\estoy\source\repos\Exam Preparatoin\ConsoleApp3\obj\Debug\netcoreapp3.1\Exxerses.pdb
+C:\Users\estoy\source\repos\Exam Preparatoin\ConsoleApp3\obj\Debug\netcoreapp3.1\Exxerses.genruntimeconfig.cache
+C:\Users\estoy\source\repos\Exam Preparatoin\ConsoleApp3\obj\Debug\netcoreapp3.1\Exxerses.csproj.AssemblyReference.cache
